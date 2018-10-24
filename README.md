@@ -1,5 +1,10 @@
 # Math books
-[(https://img.shields.io/github/issues/thebooort/math-books.svg)]()
+[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars)](https://github.com/thebooort/math-books)
+[![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch)](https://github.com/thebooort/math-books)
+[![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/thebooort/math-books)
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)](https://github.com/thebooort/math-books)
+[![GitHub issues](https://img.shields.io/github/issues/badges/shields.svg)](https://github.com/thebooort/math-books)
+[![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/thebooort/math-books)
 
 A recopilation of accesible math-related books.
 
