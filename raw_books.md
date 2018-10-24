@@ -81,3 +81,4 @@
 |**Theoreme Vivant**|Cedric Villani|
 |**The mathematical Experience**|Davis and Hersh|
 |**Drunkard’s walk**|Mlodinov|
+|**Matemática maravillosa**|Adrián Paenza|
