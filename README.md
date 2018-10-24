@@ -1,7 +1,7 @@
 # Math books
 [![GitHub stars](https://img.shields.io/github/stars/thebooort/math-books.svg?style=social&label=Stars)](https://github.com/thebooort/math-books)
 [![GitHub watchers](https://img.shields.io/github/watchers/thebooort/math-books.svg?style=social&label=Watch)](https://github.com/thebooort/math-books)
-[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)](https://github.com/thebooort/math-books)
+[![GitHub forks](https://img.shields.io/github/forks/thebooort/math-books.svg?style=social&label=Fork)](https://github.com/thebooort/math-books)
 
 
 [![GitHub issues](https://img.shields.io/github/issues/thebooort/math-books.svg)](https://github.com/thebooort/math-books)
