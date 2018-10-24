@@ -1,10 +1,8 @@
-# Accesible Math Books Index [![GitHub stars](https://img.shields.io/github/stars/thebooort/math-books.svg?style=social&label=Stars)](https://github.com/thebooort/math-books)
-[![GitHub watchers](https://img.shields.io/github/watchers/thebooort/math-books.svg?style=social&label=Watch)](https://github.com/thebooort/math-books)
-[![GitHub forks](https://img.shields.io/github/forks/thebooort/math-books.svg?style=social&label=Fork)](https://github.com/thebooort/math-books)
-[![GitHub issues](https://img.shields.io/github/issues/thebooort/math-books.svg)](https://github.com/thebooort/math-books)
-[![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/thebooort/math-books)
+# Accesible Math Books Index [![GitHub stars](https://img.shields.io/github/stars/thebooort/math-books.svg?style=social&label=Stars)](https://github.com/thebooort/math-books) [![GitHub watchers](https://img.shields.io/github/watchers/thebooort/math-books.svg?style=social&label=Watch)](https://github.com/thebooort/math-books) [![GitHub forks](https://img.shields.io/github/forks/thebooort/math-books.svg?style=social&label=Fork)](https://github.com/thebooort/math-books) [![GitHub issues](https://img.shields.io/github/issues/thebooort/math-books.svg)](https://github.com/thebooort/math-books) [![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/thebooort/math-books)
+
 <p align="center"><img src="https://raw.githubusercontent.com/thebooort/math-books/master/artwork/provisional_logo.png"></p>
-#### Never stop learning math! :)
+<p align="center">Never stop learning math! :)</p>
+
 
 
 ## A recopilation of accesible math-related books.
