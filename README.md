@@ -1,5 +1,5 @@
 # Math books
-[![Issues Open](https://img.shields.io/github/issues/thebooort/math-books.svg)]()
+[(https://img.shields.io/github/issues/thebooort/math-books.svg)]()
 
 A recopilation of accesible math-related books.
 
