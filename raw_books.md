@@ -1,4 +1,4 @@
-|title|author|
+|title|author|language|
 |---|---|
 |**Murderous Maths**|Kjartan Poskitt|
 |**Proofiness**|Seife|
@@ -82,3 +82,5 @@
 |**The mathematical Experience**|Davis and Hersh|
 |**Drunkard’s walk**|Mlodinov|
 |**Matemática maravillosa**|Adrián Paenza|
+|**Principles and Techniques in Combinatorics **| KHEE-MENG KOH,CHUAN CHONG CHEN|English|
+
