@@ -10,9 +10,11 @@ A recopilation of accesible math-related books.
 
 As I see in twitter Paul Hunt and his students Jonathon and Mia create a "contest" to vote for your favourite accesible math book during the events of the Math olympiad in 2018. 
 
-I haven't found a collections of accesible math books as good as the one that is in the contest so I thought it would be a nice idea to collect them all in an "awesome"-styled repo and maybe add more in the future. 
+I haven't found a collections of accesible math books as good as the one that is in the contest so I thought it would be a nice idea to collect them all in an "awesome"-styled repo as a start to create a massive recopilation of books.
 
-### All the credit belongs to Paul and his students for all their work.
+(Maybe there are other similar pages, but I made this to be usefull for me and someone suggest me to upload it) 
+
+### All the credit belongs to Paul and his students for all their work starting this idea.
 
 [Paul Hunt original tweet](https://twitter.com/TeachFMaths/status/1053511199147601920)
 
