@@ -1,5 +1,5 @@
 |title|author|
-| ------------- |:-------------:| -----:|
+|---|---|
 |**Murderous Maths**|Kjartan Poskitt|
 |**Proofiness**|Seife|
 |**The man who knew infinity**|Robert Kanigel|

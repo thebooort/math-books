@@ -27,7 +27,7 @@ for row in books:
     if row[0] == 'title':
         output = "|" + row[0] + "|" + row[1] + "|\n"
         output_file.write(output)
-        output = "| ------------- |:-------------:| -----:|"+"\n"
+        output = "|---|---|"+"\n"
         output_file.write(output)
     else:
         output = "|**"+row[0]+"**|" + row[1] + "|\n"
