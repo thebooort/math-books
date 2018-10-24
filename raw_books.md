@@ -1,5 +1,5 @@
-|title|author|
-|---|---|
+|title|author|language|
+|---|---|---|
 |**Murderous Maths**|Kjartan Poskitt|
 |**Proofiness**|Seife|
 |**The man who knew infinity**|Robert Kanigel|
@@ -82,3 +82,8 @@
 |**The mathematical Experience**|Davis and Hersh|
 |**Drunkard’s walk**|Mlodinov|
 |**Matemática maravillosa**|Adrián Paenza|
+|Principles and Techniques in Combinatorics| KHEE-MENG KOH,CHUAN CHONG CHEN|English|
+|Sacred Mathematics: Japanese Temple Geometry| Fukagawa Hidetoshi, Tony Rothman|English|
+|Mathematicians: An Outer View of the Inner World|Mariana Cook|English|
+
+
