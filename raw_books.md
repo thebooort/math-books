@@ -82,5 +82,5 @@
 |**The mathematical Experience**|Davis and Hersh|
 |**Drunkard’s walk**|Mlodinov|
 |**Matemática maravillosa**|Adrián Paenza|
-|**Principles and Techniques in Combinatorics **| KHEE-MENG KOH,CHUAN CHONG CHEN|English|
+|Principles and Techniques in Combinatorics| KHEE-MENG KOH,CHUAN CHONG CHEN|English|
 
